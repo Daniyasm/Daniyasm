@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently a second-year computer science student at Aston University<br>👯 I’m interested in software development and machine learning.<br>🤝 I’m looking for help with getting internships and placements<br>🌱 I’m currently learning full-stack development using Laravel, React.js and Inertia.js<br> 😄 Pronouns: She/Her
+🔭 I’m currently a final-year computer science student at Aston University<br>👯 I’m interested in software development and backend engineering.<br>🤝 I’m looking for help with getting internships and placements<br>🌱 I’m currently doing an internship part time.<br> 😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
